@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these examples in your studies or work, please cite this repository. / Se você utilizar estes exemplos em seus estudos ou trabalhos, por favor cite este repositório."
+authors:
+  - family-names: "Neves"
+    given-names: "Bruno"
+title: "Learn C / Aprenda C"
+version: 1.0.0
+date-released: 2025-12-29
+url: "https://github.com/fbrunoneves/learn-c"
+license: MIT
