@@ -19,7 +19,7 @@ int main(){
             printf("Sua escolha foi Euro.\n");
             break;
         default:
-            printf("Opção inexistente.\n");
+            printf("Escolha inexistente.\n");
     }
     return 0;
 }
